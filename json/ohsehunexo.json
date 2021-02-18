@@ -1,0 +1,22 @@
+{
+  "Iklan":
+  [
+      {
+      "status": "0",
+      "link": "https://play.google.com/store/apps/details?id=com.kmb.betrandpetoonsu",
+      "interid": "ca-app-pub-1385874687607024/1692802538",
+      "nativeid": "ca-app-pub-1385874687607024/8937685970",
+      "startappid": "209419592",
+      "pengaturan_iklan": "1",
+      "fan_inter": "FAN_UNIT_IKLAN",
+      "fan_banner_native": "FAN_UNIT_IKLAN",
+      "fan_native": "FAN_UNIT_IKLAN",
+      "hpk_admob1": "",
+      "hpk_admob2": "",
+      "hpk_admob3": "",
+      "hpk_admob4": "",
+      "hpk_admob5": ""
+      }
+   ]
+
+}
