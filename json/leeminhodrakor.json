@@ -1,0 +1,23 @@
+{
+  "Iklan":
+  [
+      {
+      "status": "0",
+      "link": "https://play.google.com/store/apps/details?id=com.ptn.betrandpetoonsu",
+      "interid": "ca-app-pub-3940256099942544/1033173712",
+      "nativeid": "ca-app-pub-3940256099942544/2247696110",
+      "startappid": "209419592",
+      "pengaturan_iklan": "1",
+      "fan_inter": "IKLAN_FACEBOOK",
+      "fan_banner_native": "IKLAN_FACEBOOK",
+      "fan_native": "IKLAN_FACEBOOK",
+      "keterangan": "MASIH PAKAI TEST ADS",
+      "hpk_admob1": "",
+      "hpk_admob2": "",
+      "hpk_admob3": "",
+      "hpk_admob4": "",
+      "hpk_admob5": ""
+      }
+   ]
+
+}
