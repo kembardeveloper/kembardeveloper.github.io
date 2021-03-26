@@ -11,6 +11,8 @@
       "fan_inter": "IKLAN_FACEBOOK",
       "fan_banner_native": "IKLAN_FACEBOOK",
       "fan_native": "IKLAN_FACEBOOK",
+      "mopub_banner": "mopub_banner",
+      "mopub_inter": "mopub_inter",
       "hpk_admob1": "",
       "hpk_admob2": "",
       "hpk_admob3": "",
