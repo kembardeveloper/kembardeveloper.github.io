@@ -11,8 +11,8 @@
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner_native": "YOUR_PLACEMENT_ID",
       "fan_native": "YOUR_PLACEMENT_ID",
-      "mopub_banner": "0ac59b0996d947309c33f59d6676399f",
-      "mopub_inter": "4f117153f5c24fa6a3a92b818a5eb630",
+      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub_inter": "24534e1901884e398f1253216226017e",
       "packagename": "com.kmb.testapp",
       "interval":5
       }
