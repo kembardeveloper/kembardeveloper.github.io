@@ -1,23 +1,20 @@
 {
-  "Iklan":
-  [
+  "Ads": [
       {
-      "status": "0",
-      "link": "https://play.google.com/store/apps/details?id=com.ptn.betrandpetoonsu",
-      "interid": "IKLAN_ADMOB",
-      "nativeid": "IKLAN_ADMOB",
-      "startappid": "209419592",
-      "pengaturan_iklan": "1",
-      "fan_inter": "IKLAN_FACEBOOK",
-      "fan_banner_native": "IKLAN_FACEBOOK",
-      "fan_native": "IKLAN_FACEBOOK",
-      "mopub_banner": "mopub_banner",
-      "mopub_inter": "mopub_inter",
-      "hpk_admob1": "",
-      "hpk_admob2": "",
-      "hpk_admob3": "",
-      "hpk_admob4": "",
-      "hpk_admob5": ""
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      
+      "select_ads": "ADMOB",
+
+      "admob_inter": "YOUR_PLACEMENT_ID",
+      "admob_native": "YOUR_PLACEMENT_ID",
+
+      "fan_banner_native": "YOUR_PLACEMENT_ID",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID",
+
+      "startappid": "205065498",
+      "interval":5
       }
    ]
 
