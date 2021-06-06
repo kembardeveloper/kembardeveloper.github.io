@@ -1,25 +1,4 @@
 {
-  "Iklan":
-  [
-      {
-      "status": "0",
-      "link": "https://play.google.com/store/apps/details?id=com.ptn.betrandpetoonsu",
-      "interid": "ca-app-pub-1385874687607024/5990217723",
-      "nativeid": "ca-app-pub-1385874687607024/1252896365",
-      "startappid": "209419592",
-      "pengaturan_iklan": "1",
-      "fan_inter": "786278161965540_786278201965536",
-      "fan_banner_native": "786278161965540_786278191965537",
-      "fan_native": "786278161965540_786278198632203",
-      "hpk_admob1": "",
-      "hpk_admob2": "",
-      "hpk_admob3": "",
-      "hpk_admob4": "",
-      "hpk_admob5": ""
-      }
-   ],
-
-
    "Ads":
    [
       {
