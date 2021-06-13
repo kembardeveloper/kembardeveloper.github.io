@@ -1,23 +1,23 @@
 {
-  "Iklan":
-  [
+   "Ads":
+   [
       {
-      "status": "0",
-      "link": "https://play.google.com/store/apps/details?id=com.ptn.betrandpetoonsu",
-      "interid": "ca-app-pub-1385874687607024/7131202135",
-      "nativeid": "ca-app-pub-1385874687607024/1878875453",
-      "startappid": "209419592",
-      "pengaturan_iklan": "4",
-      "fan_inter": "1436084176739814_1436084200073145",
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+
+      "select_ads": "ADMOB",
+      "admob_inter": "ca-app-pub-1385874687607024/7131202135",
+      "admob_native": "ca-app-pub-1385874687607024/1878875453",
+      
       "fan_banner_native": "1436084176739814_1436084210073144",
+      "fan_inter": "1436084176739814_1436084200073145",
       "fan_native": "1436084176739814_1436084203406478",
       "keterangan": "DITOLAK_FACEBOOK",
-      "hpk_admob1": "",
-      "hpk_admob2": "",
-      "hpk_admob3": "",
-      "hpk_admob4": "",
-      "hpk_admob5": ""
+
+      "mopub_banner": "YOUR_PLACEMENT_ID",
+      "mopub_inter": "YOUR_PLACEMENT_ID",
+      "startappid": "205065498",
+      "interval":5
       }
    ]
-
 }
