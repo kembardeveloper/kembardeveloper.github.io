@@ -9,12 +9,12 @@
       "select_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN",
       
-      "admob_inter": "ca-app-pub-1385874687607024/4664056559",
-      "admob_native": "ca-app-pub-1385874687607024/3350974887",
+      "admob_inter": "ca-app-pub-1385874687607024/3665857582",
+      "admob_native": "ca-app-pub-1385874687607024/4787367564",
       
-      "fan_banner_native": "1798948800269220_1798948846935882",
-      "fan_inter": "1798948800269220_1798948843602549",
-      "fan_native": "1798948800269220_1798948840269216",
+      "fan_banner_native": "152389960074913_152390006741575",
+      "fan_inter": "152389960074913_152390010074908",
+      "fan_native": "152389960074913_152390013408241",
 
       "startappid": "205065498",
       "interval":4
