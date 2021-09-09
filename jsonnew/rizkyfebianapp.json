@@ -4,17 +4,18 @@
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
       
-      "more_app": "0",
-      "backup_mode": "0",
-      "select_ads": "ADMOB",
+      "more_app": "1",
+      "backup_mode": "1",
+      "select_ads": "APPLOVIN",
       "select_backup_ads":"APPLOVIN",
       
-      "admob_inter": "YOUR_PLACEMENT_ID",
-      "admob_native": "YOUR_PLACEMENT_ID",
-
-      "fan_inter": "YOUR_PLACEMENT_ID",
-      "fan_banner_native": "YOUR_PLACEMENT_ID",
-      "fan_native": "YOUR_PLACEMENT_ID",
+      "admob_inter": "ca-app-pub-1385874687607024/4299889190",
+      "admob_native": "ca-app-pub-1385874687607024/2986807524",
+      
+      "fan_banner_native": "3859829907396640_3859830020729962",
+      "fan_inter": "3859829907396640_3859830024063295",
+      "fan_native": "3859829907396640_3859830017396629",
+      "keterangan": "DITOLAK_FACEBOOK",
 
       "startappid": "205065498",
       "interval":4
