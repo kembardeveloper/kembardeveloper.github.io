@@ -4,17 +4,17 @@
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
       
-      "more_app": "0",
+      "more_app": "1",
       "backup_mode": "0",
-      "select_ads": "ADMOB",
+      "select_ads": "APPLOVIN",
       "select_backup_ads":"APPLOVIN",
       
-      "admob_inter": "YOUR_PLACEMENT_ID",
-      "admob_native": "YOUR_PLACEMENT_ID",
-
-      "fan_inter": "YOUR_PLACEMENT_ID",
-      "fan_banner_native": "YOUR_PLACEMENT_ID",
-      "fan_native": "YOUR_PLACEMENT_ID",
+      "admob_inter": "ca-app-pub-1385874687607024/3870131472",
+      "admob_native": "ca-app-pub-1385874687607024/1243968139",
+      
+      "fan_banner_native": "234531504787310_234531534787307",
+      "fan_inter": "234531504787310_234531531453974",
+      "fan_native": "234531504787310_234531538120640",
 
       "startappid": "205065498",
       "interval":4
