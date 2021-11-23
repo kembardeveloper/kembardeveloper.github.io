@@ -5,7 +5,7 @@
       "link_redirect": "https://play.google.com/store/apps/details?id=",
       
       "more_app": "1",
-      "backup_mode": "0",
+      "backup_mode": "1",
       "select_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN",
       
@@ -17,7 +17,7 @@
       "fan_native": "166603788414369_166604028414345",
 
       "startappid": "205065498",
-      "interval":4
+      "interval":5
       }
    ]
 
