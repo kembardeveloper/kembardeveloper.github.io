@@ -2,8 +2,8 @@
    "Ads":
    [
       {
-      "status_app": "0",
-      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "status_app": "1",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.mrd.exokai",
 
       "select_ads": "ADMOB",
       "admob_inter": "ca-app-pub-1385874687607024/2293272025",
